@@ -1,0 +1,51 @@
+.pacon{
+  height: 240px;
+  position: relative;
+  top: -550px;
+  left: 350px;
+}
+
+.pac{
+  height: 120px;
+  position: relative;
+  top: -530px;
+  left: 350px;
+}
+
+.cit{
+  height: 122px;
+  position: relative;
+  top: -650px;
+  left: 615px;
+}
+
+.csc{
+    height: 120px;
+    position: relative;
+    top: -772px;
+    left: 880px;
+}
+
+.apac{
+    height: 120px;
+    position: relative;
+    top: -892px;
+    left: 1145px;
+}
+
+.anse{
+    height: 210px;
+    position: relative;
+    top: -870px;
+    left: 350px;
+}
+
+.t2{
+  border-radius: 30%;
+  background-color: white;
+  border-color: #89caca;
+  color: black;
+  position: relative;
+  top: -1530px;
+  left: 350px;
+}

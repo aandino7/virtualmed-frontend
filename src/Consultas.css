@@ -1,0 +1,85 @@
+.b1{
+    height: 40px;
+    width: 80px;
+    background-color: #ff5757;
+    border-color: #89caca;
+    color: white;
+    position: relative;
+    top: -512px;
+    left: 817px;
+  }
+  
+  .b2{
+      height: 40px;
+      width: 80px;
+      background-color: #ff914d;
+      border-color: #89caca;
+      color: white;
+      position: relative;
+      top: -552px;
+      left: 920px;
+  }
+  
+  .b3{
+      height: 40px;
+      width: 80px;
+      background-color: #3071cd;
+      border-color: #89caca;
+      color: white;
+      position: relative;
+      top: -592px;
+      left: 1020px;
+  }
+  
+  .t1{
+      border-radius: 30%;
+      background-color: white;
+      border-color: #89caca;
+      color: black;
+      position: relative;
+      top: -1525px;
+      left: 380px;
+  }
+  
+  .active-pink-4 input {
+      border: #89caca;
+      position: relative;
+      top: 200px;
+      left: 380px;
+  }
+  .active-pink-3 input {
+      border: #89caca;
+      position: relative;
+      top: -630px;
+      left: 1120px;
+  }
+
+.bt16{
+    position: relative;
+    width: 200px;
+    top: -600px;
+    left: 1255px;
+    color: black;  
+    background-color: white;
+    border: #89caca;
+}
+
+.bt17{
+    position: relative;
+    width: 200px;
+    top: -580px;
+    left: 1255px;
+    color: black;  
+    background-color: white;
+    border: #89caca;
+}
+
+.bt18{
+    position: relative;
+    width: 200px;
+    top: -560px;
+    left: 1255px;
+    color: black;  
+    background-color: white;
+    border: #89caca;
+}
